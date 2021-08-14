@@ -2,6 +2,56 @@
 
 ### O QUE APRENDI NO CURSO:
 
+<!-- 
+#### MODULO 3
+
+```txt
+Primeira aula: -->
+
+#### MODULO 2
+
+```txt
+Primeira aula: DISTRIBUIÇÃO BINOMIAL
+    Os conceitos básicos da distribuição de probabilidades binomial
+    A identificar e solucionar problemas que envolvam um experimento binomial
+    A obter a probabilidade de eventos que envolvam apenas duas possibilidades de resultado
+
+Segunda aula: DISTRIBUIÇÃO DE POISSON
+    Os conceitos básicos da distribuição de probabilidades Poisson
+    A obter as probabilidades em problemas, como os seguintes:
+        Determinação do número de clientes que entram em uma loja em determinada hora
+        Número de carros que chegam em um drive-thru de uma lanchonete na hora do almoço
+        Determinação do número de acidentes registrados em um trecho de estrada
+
+Terceira aula: DISTRIBUIÇÃO NORMAL
+    Os conceitos básicos da distribuição normal de probabilidades
+    A trabalhar com a tabela padronizada Z
+    A obter as probabilidades utilizando a distribuição normal em um conjunto de situações
+
+Quarta aula: TECNICA DE AMOSTRAGEM
+    Os conceitos de população e amostra
+    A identificação de populações finita e infinita
+    Quando utilizar a técnica de amostragem em um estudo
+    Técnicas de seleção de amostra, como:
+        Amostragem aleatória simples
+        Amostragem estratificada
+        Amostragem por conglomerados
+
+Quinta aula: NIVEL E INTERVALO DE CONFIANCA
+    A conceituação de parâmetros e de estimativa
+    O teorema do limite central
+    Níveis de confiança e de significância
+    A obter a margem de erro de um experimento
+    A obter intervalos de confiança para uma estimativa pontual (estimação intervalar)
+
+Sexta aula: CALCULANDO O TAMANHO DE UMA AMOSTRA
+    A determinação do tamanho de uma amostra, para garantir que esta seja representativa da população
+    O cálculo de tamanho de amostra para variáveis quantitativas finitas e infinitas
+
+
+
+```
+
 #### MODULO 1
 
 ```txt
@@ -33,9 +83,8 @@ sexta aula: MEDIDA DE DISPERSÃO
     Que, embora as medidas de posição forneçam uma sumarização bastante importante dos dados, elas podem não ser suficientes para caracterizar conjuntos distintos, especialmente quando as observações de determinada distribuição apresentarem dados muito dispersos
         Por isso, para complementar nossas análises e poder caracterizar melhor o conjunto de dados, utilizamos as medidas de dispersão.
 
-
-
 ```
+
 
 ### DEPENDENCIA
 
